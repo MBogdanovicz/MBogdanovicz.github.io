@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://www.dropbox.com/s/a61ypoar0o7l7zy/SmartDrive-QA.ipa?dl=0</string>
+		<key>displayImageURL</key>
+		<string>https://www.dropbox.com/s/cfkucx8zqsex3qw/ViaVerde57.png?dl=0</string>
+		<key>fullSizeImageURL</key>
+		<string>https://www.dropbox.com/s/ouyteqkhterx97k/ViaVerde512.png?dl=0</string>
+	</dict>
+	<key>method</key>
+	<string>development</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>pt.viaverde.smartdrive</key>
+		<string>pt.viaverde.smartdrive.qa</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Apple Development</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>CUMVN3Y28M</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
